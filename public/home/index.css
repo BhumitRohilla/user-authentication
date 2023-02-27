@@ -1,0 +1,21 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    font-size: 20px;
+}
+
+#logout-div{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    
+}
